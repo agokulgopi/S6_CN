@@ -1,0 +1,22 @@
+sender
+
+Enter Data: Hello
+[+]Frame Sent
+[-]Ack Not Received
+Enter Data: World
+[+]Frame Sent
+[+]Ack Received
+Enter Data: Test
+[+]Frame Sent
+[+]Ack Received
+
+
+receiver
+
+[+]Frame Received: Hello
+[+]Ack Sent
+[+]Frame Not Received
+[+]Frame Received: World
+[+]Ack Sent
+[+]Frame Received: Test
+[+]Ack Sent
