@@ -1,0 +1,13 @@
+server output
+
+Socket created successfully
+Binding done
+Listening...
+Msg from client: Hello, Server!
+
+
+client output
+
+Socket created successfully
+Enter message to server: Hello, Server!
+Server message: Hello, Server!
